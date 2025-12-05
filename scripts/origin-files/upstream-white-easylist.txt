@@ -1,4 +1,4 @@
-! easylist-0 2025-10-22 18:48:29 UTC
+! easylist-0 2025-12-05 12:58:52 UTC
 ! https://easylist-downloads.adblockplus.org/easylist.txt
 @@||2chmatome2.jp/images/sp/320x250.png$~third-party
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
@@ -269,7 +269,6 @@
 @@||webbtelescope.org/files/live/sites/webb/$image,~third-party
 @@||wrestlinginc.com/wp-content/themes/unified/js/prebid.js$~third-party
 @@||www.google.*/search?$generichide
-@@||www.google.*/search?$xmlhttprequest
 @@||www.google.com/ads/preferences/$image,script,subdocument
 @@||xhaccess.com^$script,~third-party
 @@||xhamster.com^$script,~third-party
@@ -294,7 +293,7 @@
 @@||youchien.net/css/ad_side.css$~third-party
 @@||yuru-mbti.com/static/css/adsense.css$~third-party
 @@||zeebiz.com/ads/$image,~third-party
-! easylist-1 2025-10-22 18:48:30 UTC
+! easylist-1 2025-12-05 12:58:53 UTC
 ! https://filters.adtidy.org/windows/filters/224_optimized.txt
 @@||060s.com/images_ad/*.png
 @@||073img.com/*,*,
@@ -303,7 +302,6 @@
 @@||10086.cn^*/ad$~third-party
 @@||113.com.tw/www/image/index-ad.png
 @@||12306.cn/otn/resources/images/pic/new-ad
-@@||123dhang.com/supo/advertisement.js
 @@||126.net/163/frontend/share/js/
 @@||126.net/images/blank.gif
 @@||159i.com/a_d/$media
@@ -335,7 +333,6 @@
 @@||58b.tv/static/js/ad.js
 @@||58cdn.com.cn/tuiguang/center/
 @@||58huanbao.com/skin/defaultcs2660/images/ad
-@@||590103.idv.tw/advertisement.js
 @@||5w8.fun/myads/img/*.gif
 @@||7m.cn/v2/js/analyse.js
 @@||85tube.com/player/player_ads.html
@@ -382,7 +379,6 @@
 @@||aixifan.com/acfun-H5/public/script/sensorsdata.
 @@||aixifan.com/acsdk/log.min.js?
 @@||aixifan.com/dotnet/20130418/script/fingerprint.
-@@||aixifan.com/static/home/widget/basic/advertisement/advertisement.$stylesheet
 @@||alicdn.com/??*/tracker/
 @@||alicdn.com/dt/tracker/4.2.0/??tracker.
 @@||alicdn.com/img/ibank/2019/975/700/12603007579_1230538058.jpg
@@ -617,7 +613,6 @@
 @@||jswenhui.com^*/ad/
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
 @@||kayixin.com^*/advert
-@@||kehai.com/front/dist/app/site/list/advertisement.js
 @@||kf.cn/ad/css/*.*.
 @@||kf.cn/ad/css/*.css
 @@||kf.cn/ad/css/images/
@@ -791,13 +786,11 @@
 @@||udnplay.com/js/momo/adsbygoogle.js
 @@||ujinbi.com/UpLoadFile/guanggao/
 @@||ulifestyle.com.hk/store/prod/iskypost/res/js/dfp-
-@@||upxin.net/advertisement.js
 @@||uu.res.netease.com/pc/zt/*/img/ad_
 @@||v2rayssr.com/wp-content/plugins/dh-anti-adblocker/public/js/prebid-ads.js
 @@||video.520cc.cc/ad.php|
 @@||vipstatic.com/img/share/blank.png
 @@||viu.com^*/tracking/
-@@||vlist.se/advertisement.js
 @@||vvic.com/monetize/ads/index/
 @@||wancaibb.com/share/js/share.min.js
 @@||ware.shop.jd.com^$genericblock,generichide
@@ -826,17 +819,16 @@
 @@||yunjiema.top/static/js/wpsafelink.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zpmobi.cn^*/ad.css?$stylesheet
-! easylist-2 2025-10-22 18:48:30 UTC
+! easylist-2 2025-12-05 12:58:54 UTC
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 @@||lancdn.com/landian/public/js/ads.js
 @@||th7.cn/sanda2015/css/ads.js
-! easylist-3 2025-10-22 18:48:30 UTC
+! easylist-3 2025-12-05 12:58:54 UTC
 ! https://easylist.to/easylist/fanboy-annoyance.txt
 @@||192.168.*/privacy_policy.js$~third-party
 @@||3332222.ru/cookie-popup.$~third-party
 @@||366.bg/cookieconsent/cookieconsent.min.js$~third-party
 @@||3obieg.pl/wp-content/themes/sowe/css/content/$image
-@@||aainflight.com^
 @@||adblockplus.org/img/cookie-notice.svg$~third-party
 @@||adtipp.de/js/cookiebanner.js
 @@||ahaan.co.uk^$~third-party,xmlhttprequest
@@ -982,6 +974,7 @@
 @@||internazionale.it/assets/js/cookies_gdpr.js?
 @@||intersport.no/cookiewall?$~third-party
 @@||jaybirdsport.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$~third-party
+@@||jegy.hu/resources/js/libs/cookieconsent/cookieconsent.umd.js$~third-party
 @@||joska.com/typo3conf/ext/dsgvo_manager/Resources/Public/javascript/cookie-consent.js
 @@||jsdelivr.net/npm/sharer.js
 @@||jurga.lt/vendor/orestbida/cookieconsent/dist/cookieconsent.umd.js$~third-party
@@ -1188,7 +1181,7 @@
 @@||zensus2022.de/SiteGlobals/Modules/CookieBanner/*/CookieBanner.json?$~third-party,xmlhttprequest
 @@||zoo-frankfurt.de/bundles/chcookieconsent/js/cookie_consent.js$~third-party
 @@||zoominfo.com/_next/*/privacy-policy.json$~third-party
-! easylist-4 2025-10-22 18:48:30 UTC
+! easylist-4 2025-12-05 12:58:54 UTC
 ! https://easylist.to/easylist/easyprivacy.txt
 @@||10086.cn/framework/modules/sdc.js$script,~third-party
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
@@ -1219,10 +1212,13 @@
 @@||api.aliagents.ai/api/v1/activity$~third-party,xmlhttprequest
 @@||api.apolomedia.com/static/libs/event-tracking.min.js$script
 @@||api.app.mobilelocker.eu/api/latest/application-environment/ahoy/events$~third-party
+@@||api.useinsider.com/api/web/$xmlhttprequest
 @@||api.vk.com/method/statEvents.$~third-party
 @@||api.zeeg.me/api/analytics/events/$~third-party
 @@||app.clarity.so^$~third-party
+@@||app.hype.it/assets/packages/mixpanel_flutter/assets/mixpanel.js$~third-party
 @@||apps.derstandard.at^*/TrackingCookieCheck?$subdocument
+@@||areaclienti.generali.it/plugins/cordova-plugin-fingerprint-aio/www/Fingerprint.js$script,~third-party
 @@||assets.fyers.in/Lib/analytics/Analytics.js$~third-party
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
 @@||att.com/scripts/adobe/prod/$script,~third-party
@@ -1241,6 +1237,7 @@
 @@||c-web.cedyna.co.jp/customer/img/spacer.gif?$~third-party
 @@||c.paypal.com/da/r/fb.js$script
 @@||caf.fr^*/smarttag.js$script,~third-party
+@@||camel3.live/lib/sensorsdata.full.min.js$~third-party
 @@||canadacomputers.com/templates/ccnew/assets/js/jquery.browser-fingerprint-$~third-party
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cbsi.map.fastly.net^
@@ -1254,11 +1251,13 @@
 @@||chat.d-id.com/assets/mixpanel.$~third-party
 @@||check.ddos-guard.net/check.js$script
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
+@@||clcouncil.org/wp-content/plugins/counter-block/assets/js/counter.js?$script,~third-party
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||cnet.com/a/video-player/uvpjs-rv/$script,~third-party
 @@||collections.archives.govt.nz/combo/*/gtag.js$script,~third-party
 @@||collusion.com/static/newrelic.js$script,~third-party
 @@||community.brave.app/t/$xmlhttprequest
+@@||configurator.porsche.com/public/adobe-analytics-$~third-party
 @@||console.statsig.com/_next/$~third-party
 @@||content.ingbank.pl^
 @@||coremetrics.com*/eluminate.js
@@ -1271,6 +1270,7 @@
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||cxense.com/document/search?
 @@||cybozu.com/*/event.gif?$~third-party
+@@||dd.auspost.com.au/tags.js$script,~third-party
 @@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||detik.com/urchin.js
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
@@ -1288,6 +1288,7 @@
 @@||events.raceresult.com^$~third-party,xmlhttprequest
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||ezodn.com/cmp/gvl.json$xmlhttprequest
+@@||fathom.video/embed/$subdocument
 @@||fdi.fiduciarydecisions.com/a/lib/gtag/gtag.js$script,~third-party
 @@||fdi.fiduciarydecisions.com/v/app/components/*/Analytics.js$script,~third-party
 @@||filme.imyfone.com/assets/js/gatrack.js$~third-party
@@ -1339,6 +1340,7 @@
 @@||kohls.com/ecustservice/js/sitecatalyst.js$script,~third-party
 @@||komas19.xyz/cdn-cgi/apps/$script,~third-party
 @@||komplett.no/gtm.js$script,~third-party
+@@||konzolvilag.hu^*/click_tracking.js$~third-party
 @@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
 @@||labrc.pw/advstats/$xmlhttprequest
 @@||lacoste.com^*/click-analytics.js$~third-party
@@ -1403,7 +1405,6 @@
 @@||palmettostatearmory.com/static/$script,~third-party
 @@||pals.pa.gov/vendor/analytics/$~third-party
 @@||parcel.app/webtrack.php?$~third-party
-@@||parliament.nz/*/stormcaster.js$script,~third-party
 @@||pay.citylink.pro/stats/services/$~third-party
 @@||pcoptimizedsettings.com/wp-content/plugins/koko-analytics/$~third-party
 @@||pcoptimizedsettings.com/wp-content/uploads/breeze/google/gtag.js$~third-party
@@ -1411,6 +1412,7 @@
 @@||pladform.ru/dive/$xmlhttprequest
 @@||pladform.ru/player$subdocument
 @@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
+@@||plans.humana.com/assets/analytics-events-$script,~third-party
 @@||plantyn.com/optiext/optiextension.dll$~third-party
 @@||platform.bombas.com/external/gtm.js$script,~third-party
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
@@ -1446,6 +1448,8 @@
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||sc.youmaker.com/site/article/count?
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMapping.json?$~third-party,xmlhttprequest
+@@||secure.moneygram.com/embed/*/webAnalytics/pageMappingOverrides.json?$~third-party,xmlhttprequest
 @@||securegames.iwin.com/data/gtm.json$~third-party,xmlhttprequest
 @@||seg-cdn.pumpkin.care/analytics.js/$~third-party
 @@||seguridad.compensar.com/lib/js/fingerprint2.js$~third-party
@@ -1460,6 +1464,7 @@
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||simcotools.app/assets/adsense-*.js$~third-party
+@@||sizhiai.com/api/stat?$~third-party
 @@||smog.moja-ostroleka.pl/mapa/sensorsdata.json$~third-party
 @@||smotrim.ru/js/stat.js$script
 @@||sohotheatre.com^*/PageView.js$~third-party
@@ -1486,6 +1491,7 @@
 @@||tagcommander.com^*/tc_$script
 @@||tags.news.com.au/prod/heartbeat/$script
 @@||teams.microsoft.com/dialin-cdn-root/*/aria-web-telemetry-$~third-party
+@@||teleportpod.com/assets/EventTracking-$script,~third-party
 @@||tennispro.eu/min/?$script,~third-party
 @@||thaiairways.com/static/common/js/wt_js/webtrends.min.js$~third-party
 @@||themarker.com/logger/p.gif?$image,xmlhttprequest
@@ -1506,7 +1512,6 @@
 @@||type.jp/common/js/clicktag.js
 @@||uaprom.net/image/blank.gif?$image
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party
-@@||usine-digitale.fr/*/stormcaster.js$script,~third-party
 @@||usplastic.com/js/hawk.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||vidible.tv^*/ComScore.StreamSense.js
@@ -1525,7 +1530,7 @@
 @@||zillow.com/rental-manager/proxy/rental-manager-api/api/v1/users/freemium/analytics/pageViews$~third-party
 @@||zinro.net/m/log.php
 @@||zoominfo.com/c/amplitude-js$script,~third-party
-! easylist-5 2025-10-22 18:48:31 UTC
+! easylist-5 2025-12-05 12:58:55 UTC
 ! https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 @@||114la.com/|
 @@||17173im.allyes.com^
@@ -1611,5 +1616,5 @@
 @@||xmxing.net^
 @@||xsc.lise.edu.cn/ad/
 @@||zbj.com^
-! easylist-6 2025-10-22 18:48:31 UTC
+! easylist-6 2025-12-05 12:58:55 UTC
 ! https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
